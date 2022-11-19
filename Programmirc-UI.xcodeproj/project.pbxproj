@@ -12,6 +12,7 @@
 		172CBE9F29296E1E0058F2DB /* FirstScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172CBE9E29296E1E0058F2DB /* FirstScreen.swift */; };
 		172CBEA429296E220058F2DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 172CBEA329296E220058F2DB /* Assets.xcassets */; };
 		172CBEA729296E220058F2DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172CBEA529296E220058F2DB /* LaunchScreen.storyboard */; };
+		172CBEB1292973FC0058F2DB /* SecondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172CBEB0292973FC0058F2DB /* SecondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		172CBEA329296E220058F2DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		172CBEA629296E220058F2DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		172CBEA829296E220058F2DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		172CBEB0292973FC0058F2DB /* SecondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				172CBE9A29296E1E0058F2DB /* AppDelegate.swift */,
 				172CBE9C29296E1E0058F2DB /* SceneDelegate.swift */,
 				172CBE9E29296E1E0058F2DB /* FirstScreen.swift */,
+				172CBEB0292973FC0058F2DB /* SecondScreen.swift */,
 				172CBEA329296E220058F2DB /* Assets.xcassets */,
 				172CBEA529296E220058F2DB /* LaunchScreen.storyboard */,
 				172CBEA829296E220058F2DB /* Info.plist */,
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				172CBE9F29296E1E0058F2DB /* FirstScreen.swift in Sources */,
+				172CBEB1292973FC0058F2DB /* SecondScreen.swift in Sources */,
 				172CBE9B29296E1E0058F2DB /* AppDelegate.swift in Sources */,
 				172CBE9D29296E1E0058F2DB /* SceneDelegate.swift in Sources */,
 			);
